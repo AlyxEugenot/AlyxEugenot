@@ -7,10 +7,22 @@
   </a>
 </p>
 
+
+<table>
+  <tr>
+    <td>
+
 ## 👋 About Me
-I’m a French developer recently graduated in **Full Stack and Video Game Development**, currently focusing on building **modern, scalable web applications**.
+I’m a French developer recently graduated in **Full Stack and Video Game Development**, currently focusing on building **modern, scalable web applications**.  
 
 My background in game development gave me a strong foundation in **software architecture, performance optimization, and problem-solving**, which I now apply to full-stack development.
+
+    </td>
+    <td width="200" align="right">
+      <img src="assets/alyx.png" alt="Alyx Eugenot" width="180" style="border-radius: 10px;">
+    </td>
+  </tr>
+</table>
 
 ---
 
