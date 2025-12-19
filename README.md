@@ -5,6 +5,9 @@
   <a href="https://github.com/AlyxEugenot" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://discord.com/users/904479713983094824" target="_blank">
+    <img src="https://img.shields.io/badge/Discord%20@alyx__e-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord (alyx_e)"/>
+  </a>
 </p>
 
 ## 👋 About Me
