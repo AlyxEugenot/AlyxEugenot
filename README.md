@@ -8,21 +8,27 @@
 </p>
 
 
-<table>
-  <tr>
-    <td>
+<!-- About Me + Photo with flex layout -->
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
 
-## 👋 About Me
-I’m a French developer recently graduated in **Full Stack and Video Game Development**, currently focusing on building **modern, scalable web applications**.  
+  <!-- About Me text -->
+  <div style="flex: 1; padding-right: 20px;">
+    <h3>👋 About Me</h3>
+    <p>
+      I’m a French developer recently graduated in <strong>Full Stack and Video Game Development</strong>, 
+      currently focusing on building <strong>modern, scalable web applications</strong>.<br><br>
+      My background in game development gave me a strong foundation in 
+      <strong>software architecture, performance optimization, and problem-solving</strong>, 
+      which I now apply to full-stack development.
+    </p>
+  </div>
 
-My background in game development gave me a strong foundation in **software architecture, performance optimization, and problem-solving**, which I now apply to full-stack development.
+  <!-- Photo -->
+  <div style="flex-shrink: 0;">
+    <img src="assets/alyx.png" alt="Alyx Eugenot" width="180" style="border-radius: 10px;">
+  </div>
 
-    </td>
-    <td width="200" align="right">
-      <img src="assets/alyx.png" alt="Alyx Eugenot" width="180" style="border-radius: 10px;">
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
